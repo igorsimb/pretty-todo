@@ -6,4 +6,4 @@
 ## Description: 
 A simple to do app with functionality to add, delete and mark an item as complete. Click on the item to mark it as complete, click again to unmark.
 
-## Deployed at: [igorsimb.pythonanywhere.com](https://igorsimb.pythonanywhere.com/)
+## Demo: [igorsimb.pythonanywhere.com](https://igorsimb.pythonanywhere.com/)
